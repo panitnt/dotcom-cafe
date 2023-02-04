@@ -9,7 +9,8 @@ Section1 | Section2 | Section3 | Section 4 | [Beverages](#Beverages)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
-## Beverages
+## Drive-Thru
+### Beverages
 | Menu                     | Hot      | Iced      | Frappe    |
 |:-------------------------|----------|-----------|-----------|
 | Water                    | -        | 7         | -         |
