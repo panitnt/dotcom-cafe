@@ -40,5 +40,5 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Panitta | Breakfast | @panitnt |
+| Panitta Tanyavichitkul| Breakfast | @panitnt |
 
