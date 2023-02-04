@@ -14,6 +14,11 @@
 
 
 ## Night Food
+| NightFood              | Price |
+|:-------------------------|----------|
+| PadKaProw               | 40    |
+| GreenCurry              | 45       |
+| Panaeng              | 40       |
 
 
 ## Beverages
