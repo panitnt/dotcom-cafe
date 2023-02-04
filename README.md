@@ -1,6 +1,9 @@
 # DotCom Cafe
 
-[Breakfast](#breakfast) | Section2 | [Dinner](#Dinner) | [Night Food](#Night-Food) | [Beverages](#Beverages) | [Desserts](#Desserts)|[Appetizers](#Appetizers)| 
+
+
+[Breakfast](#breakfast) |  [Lunch](#Lunch) | [Dinner](#Dinner) | [Night Food](#Night-Food) | [Beverages](#Beverages) | [Desserts](#Desserts)|[Appetizers](#Appetizers)| 
+
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
@@ -16,6 +19,13 @@
 | ham                      | 10       |
 | omelette                 | 20       |
 | sausage                  | 10       |
+
+### Lunch 
+| Item                     | Price    |
+|:-------------------------|----------|
+| Fried Rice               | 100      |
+| Spaghetti                | 150      |
+| Pizza                    | 200      |
 
 ### Dinner
 
@@ -65,7 +75,7 @@
 |:-------------------------|----------|
 | Lays               | 20    |
 | Tawan              | 20      |
-| Baked broccoli with cheese            | 30     |
+| Baked broccoli with cheese   | 30     |
 
 ## About Us
 | Name      | Role      | Github          |
@@ -75,7 +85,9 @@
 | Pornnapat Ketplung | Desserts | @FernPK |
 | Apimook Tratree | Beverages | @apkmew |
 | Panitta Tanyavichitkul| Breakfast | @panitnt |
+| Kornphol Kulkarineethum| Lunch | @Tkpkm |
 | Suphanat Wisitkatanyuchai | NightFood | bumbigbrain |
+
 
 
 
