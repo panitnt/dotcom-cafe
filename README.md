@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | ...
+[breakfast](#breakfast) | Section2 | Section3 | ...
  
 **TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**   
 **TODO**: และอย่าลืมที่จะลบ TODO lines ทั้งหมดออกด้วย  
@@ -10,6 +10,16 @@ Section1 | Section2 | Section3 | ...
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
 ## Drive-Thru
+
+### Breakfast
+
+| Item                     | Price    |
+|:-------------------------|----------|
+| bread                    | 10       |
+| fried egg                | 20       |
+| ham                      | 10       |
+| omelette                 | 20       |
+| sausage                  | 10       |
  
 **TODO**: ใส่เมนูที่ต้องการไว้ในส่วนนี้ โดยในแต่ละหมวดหมู่ใส่เป็น **ตาราง** ซึ่งในแต่ละหมวดหมู่ของอาหารมีตารางเป็นของตัวเองแยกจากกัน  
 **TODD**: ตัดสินใจกันในกลุ่มของตัวเองว่าจะเลือก หัวข้อในแต่ละคอลัมน์เป็นอะไร และจะโชว์ราคาในแต่ละเมนูยังไง โดยที่เมนูในแต่ละหมวดหมู่จะต้องสอดคล้องกัน  
@@ -30,5 +40,5 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Panitta | Breakfast | @panitnt |
 
