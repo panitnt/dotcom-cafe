@@ -1,6 +1,8 @@
 # DotCom Cafe
 
-[Breakfast](#breakfast) | Section2 | [Dinner](#Dinner) | [Beverages](#Beverages) | [Desserts](###Desserts)
+
+
+[Breakfast](#breakfast) | Section2 | [Dinner](#Dinner) | [Beverages](#Beverages) | [Desserts](#Desserts)|[Appetizers](#Appetizers)|
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
@@ -52,12 +54,21 @@
 | Chocolate cake | 89 |
 | Puddings | 59 |
 
-## About Us
+### Appetizers
+| Appetizers                 | Price |
+|:-------------------------|----------|
+| Lays               | 20    |
+| Tawan              | 20      |
+| Baked broccoli with cheese            | 30     |
 
+## About Us
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+
+| Adithep Kasornjan | Appetizers | @kongadithep |
 | Woraphan  | Dinner    | @Unikorn996     |
 | Pornnapat Ketplung | Desserts | @FernPK |
 | Apimook Tratree | Beverages | @apkmew |
 | Panitta Tanyavichitkul| Breakfast | @panitnt |
+
 

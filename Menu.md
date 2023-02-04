@@ -34,6 +34,14 @@
 | Puddings | 59 |
 
 
+## Appetizers
+| Appetizers                 | Price |
+|:-------------------------|----------|
+| Lays               | 20    |
+| Tawan              | 20      |
+| Baked broccoli with cheese            | 30     |
+
+
 ## Beverages
 | Menu                     | Hot      | Iced      | Frappe    |
 |:-------------------------|----------|-----------|-----------|
@@ -48,6 +56,7 @@
 | Milk                     | -        | 35        | 40        |
 | Cookie and Cream         | -        | 40        | 45        |
 | Chocolate                | -        | 40        | 45        |
+
 
 
 ---
