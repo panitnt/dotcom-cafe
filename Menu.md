@@ -23,7 +23,7 @@
 |:-------------------------|----------|
 | Lays               | 20    |
 | Tawan              | 20      |
-| Baked broccoli with cheese             | 30     |
+| Baked broccoli with cheese            | 30     |
 ---
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
