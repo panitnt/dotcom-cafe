@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | ...
+[Night Food](#Night-Food) | Section2 | Section3 | ...
  
 **TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**   
 **TODO**: และอย่าลืมที่จะลบ TODO lines ทั้งหมดออกด้วย  
@@ -15,12 +15,12 @@ Section1 | Section2 | Section3 | ...
 **TODD**: ตัดสินใจกันในกลุ่มของตัวเองว่าจะเลือก หัวข้อในแต่ละคอลัมน์เป็นอะไร และจะโชว์ราคาในแต่ละเมนูยังไง โดยที่เมนูในแต่ละหมวดหมู่จะต้องสอดคล้องกัน  
 
 นี้คือวิธีตัวอย่างของการใส่ข้อมูลในรูปแบบของตารางโดยใช้ Markdown  
-
-| Column 1                 | Column 2 |
+### Night Food
+| Item             | Price |
 |:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
+| PadKaProw               | 40    |
+| GreenCurry              | 45       |
+| Panaeng              | 40       |
 
 ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
 
@@ -30,5 +30,5 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| ศุภนัฏ วิสิฏกตัญญูชัย | NightFood | bumbigbrain |
 
