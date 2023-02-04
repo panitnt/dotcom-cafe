@@ -1,10 +1,23 @@
 # DotCom Cafe
 
-[Desserts](###Desserts)
+Section1 | Section2 | [Dinner](#Dinner) | [Desserts](###Desserts)
+
+[Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
 ## Drive-Thru
- 
+
+### Dinner
+
+| Item                     | Price    |
+|:-------------------------|----------|
+| Beef Steak               | 899      |
+| Pork Steak               | 435      |
+| Chicken Steak            | 350      |
+| Pepperoni Pizza          | 250      |
+| began Pizza              | 199      |
+
 ### Desserts
+
 | Item | Price |
 | --- | --- |
 | Souffle pancake | 59 |
@@ -14,10 +27,8 @@
 | Puddings | 59 |
 
 ## About Us
-  
-**TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่ตัวเองเป็นคนรับผิดชอบ)
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Woraphan  | Dinner    | @Unikorn996     |
 | Pornnapat Ketplung | Desserts | @FernPK |
-
