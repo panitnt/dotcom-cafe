@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | [Dinner](#Dinner) | [Desserts](###Desserts)
+Section1 | Section2 | [Dinner](#Dinner) | [Beverages](#Beverages) | [Desserts](###Desserts)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
@@ -15,6 +15,22 @@ Section1 | Section2 | [Dinner](#Dinner) | [Desserts](###Desserts)
 | Chicken Steak            | 350      |
 | Pepperoni Pizza          | 250      |
 | began Pizza              | 199      |
+
+### Beverages
+
+| Item                     | Hot      | Iced      | Frappe    |
+|:-------------------------|----------|-----------|-----------|
+| Water                    | -        | 7         | -         |
+| Espresso                 | 40       | 45        | 50        |
+| Capuchino                | 40       | 45        | 50        |
+| Late                     | 40       | 45        | 50        |
+| Americano                | 40       | 45        | 50        |
+| Mocha                    | 40       | 45        | 50        |
+| Italian Soda             | -        | 35        | 40        |
+| Smoothie                 | -        | -         | 40        |
+| Milk                     | -        | 35        | 40        |
+| Cookie and Cream         | -        | 40        | 45        |
+| Chocolate                | -        | 40        | 45        |
 
 ### Desserts
 
@@ -32,3 +48,5 @@ Section1 | Section2 | [Dinner](#Dinner) | [Desserts](###Desserts)
 |:----------|-----------|-----------------|
 | Woraphan  | Dinner    | @Unikorn996     |
 | Pornnapat Ketplung | Desserts | @FernPK |
+| Apimook Tratree | Beverages | @apkmew |
+
