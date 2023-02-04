@@ -12,6 +12,11 @@
 | sausage                  | 10       |
 
 ## Lunch 
+| Item                     | Price    |
+|:-------------------------|----------|
+| Fried Rice               | 100      |
+| Spaghetti                | 150      |
+| Pizza                    | 200      |
 
 
 ## Dinner
