@@ -1,10 +1,20 @@
 # DotCom Cafe
 
-Section1 | Section2 | [Dinner](#Dinner) | [Beverages](#Beverages) | [Desserts](###Desserts)
+[Breakfast](#breakfast) | Section2 | [Dinner](#Dinner) | [Beverages](#Beverages) | [Desserts](###Desserts)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
 ## Drive-Thru
+
+### Breakfast
+
+| Item                     | Price    |
+|:-------------------------|----------|
+| bread                    | 10       |
+| fried egg                | 20       |
+| ham                      | 10       |
+| omelette                 | 20       |
+| sausage                  | 10       |
 
 ### Dinner
 
@@ -49,4 +59,5 @@ Section1 | Section2 | [Dinner](#Dinner) | [Beverages](#Beverages) | [Desserts](#
 | Woraphan  | Dinner    | @Unikorn996     |
 | Pornnapat Ketplung | Desserts | @FernPK |
 | Apimook Tratree | Beverages | @apkmew |
+| Panitta Tanyavichitkul| Breakfast | @panitnt |
 

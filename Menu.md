@@ -3,6 +3,13 @@
 
 ## Breakfast
 
+| Item                     | Price    |
+|:-------------------------|----------|
+| bread                    | 10       |
+| fried egg                | 20       |
+| ham                      | 10       |
+| omelette                 | 20       |
+| sausage                  | 10       |
 
 ## Lunch 
 
