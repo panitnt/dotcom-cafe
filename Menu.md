@@ -16,6 +16,16 @@
 ## Night Food
 
 
+## Desserts
+| Item | Price |
+| --- | --- |
+| Souffle pancake | 59 |
+| Ice-cream | 49 |
+| Strawberry cheese cake | 89 |
+| Chocolate cake | 89 |
+| Puddings | 59 |
+
+
 ## Beverages
 
 
